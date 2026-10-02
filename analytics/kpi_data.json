@@ -1,0 +1,80 @@
+{
+  "project": "Mobile Fitness Coaching App",
+  "author": "Younss Yahya",
+  "timeframe": {
+    "start": "2025-01-01",
+    "end": "2025-11-15",
+    "granularity": "monthly"
+  },
+  "perspectives": [
+    "Financial",
+    "Customer",
+    "Internal Business Processes",
+    "Learning & Growth"
+  ],
+  "kpis": [
+    {
+      "name": "Average Response Time",
+      "acronym": "ART",
+      "unit": "hours",
+      "baseline": 18.0,
+      "target": 2.0,
+      "direction": "decrease",
+      "monthly_data": [
+        {"month": "Jan 2025", "value": 18.0, "progress_pct": 0.0},
+        {"month": "Feb 2025", "value": 10.0, "progress_pct": 50.0},
+        {"month": "Mar 2025", "value": 12.0, "progress_pct": 37.5},
+        {"month": "Apr 2025", "value": 3.0, "progress_pct": 93.75},
+        {"month": "May 2025", "value": 3.2, "progress_pct": 92.5},
+        {"month": "Jun 2025", "value": 4.0, "progress_pct": 87.5},
+        {"month": "Jul 2025", "value": 5.0, "progress_pct": 81.25},
+        {"month": "Aug 2025", "value": 3.2, "progress_pct": 92.5},
+        {"month": "Sep 2025", "value": 3.0, "progress_pct": 93.75},
+        {"month": "Oct 2025", "value": 2.0, "progress_pct": 100.0},
+        {"month": "Nov 2025", "value": 2.5, "progress_pct": 96.88}
+      ]
+    },
+    {
+      "name": "First Contact Resolution Rate",
+      "acronym": "FCR",
+      "unit": "%",
+      "baseline": 50.0,
+      "target": 90.0,
+      "direction": "increase",
+      "monthly_data": [
+        {"month": "Jan 2025", "value": 43.0, "progress_pct": -17.5},
+        {"month": "Feb 2025", "value": 58.0, "progress_pct": 20.0},
+        {"month": "Mar 2025", "value": 62.0, "progress_pct": 30.0},
+        {"month": "Apr 2025", "value": 73.0, "progress_pct": 57.5},
+        {"month": "May 2025", "value": 70.0, "progress_pct": 50.0},
+        {"month": "Jun 2025", "value": 65.0, "progress_pct": 37.5},
+        {"month": "Jul 2025", "value": 78.0, "progress_pct": 70.0},
+        {"month": "Aug 2025", "value": 75.0, "progress_pct": 62.5},
+        {"month": "Sep 2025", "value": 74.0, "progress_pct": 60.0},
+        {"month": "Oct 2025", "value": 72.0, "progress_pct": 55.0},
+        {"month": "Nov 2025", "value": 68.0, "progress_pct": 45.0}
+      ]
+    },
+    {
+      "name": "Customer Satisfaction",
+      "acronym": "CSAT",
+      "unit": "%",
+      "baseline": 60.0,
+      "target": 97.0,
+      "direction": "increase",
+      "monthly_data": [
+        {"month": "Jan 2025", "value": 60.0, "progress_pct": 0.0},
+        {"month": "Feb 2025", "value": 65.0, "progress_pct": 13.51},
+        {"month": "Mar 2025", "value": 59.0, "progress_pct": -2.7},
+        {"month": "Apr 2025", "value": 86.0, "progress_pct": 70.27},
+        {"month": "May 2025", "value": 94.0, "progress_pct": 91.89},
+        {"month": "Jun 2025", "value": 87.0, "progress_pct": 72.97},
+        {"month": "Jul 2025", "value": 82.0, "progress_pct": 59.46},
+        {"month": "Aug 2025", "value": 90.0, "progress_pct": 81.08},
+        {"month": "Sep 2025", "value": 93.0, "progress_pct": 89.19},
+        {"month": "Oct 2025", "value": 78.0, "progress_pct": 48.65},
+        {"month": "Nov 2025", "value": 84.0, "progress_pct": 64.86}
+      ]
+    }
+  ]
+}
